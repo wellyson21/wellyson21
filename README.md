@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 - 📫 Para entrar em contato comigo **wellysonwcr21@gmail.com**
 
-- 📄 Conheça Minha experiências [https://www.linkedin.com/in/wellyson-cruz-b02a0b23b/](https://www.linkedin.com/in/wellyson-cruz-b02a0b23b/)
+- 📄 Conheça Minha experiências [https://www.ipartts.com/)
+- Trabalhei principalmente em projetos privados da empresa iPartts com foco no seguimento de ERPs
+- Segue o link do ERP em passei grande parte do tempo trabalhando dentro da iPartts [https://smartgestor.ipartts.com/)](https://smartgestor.ipartts.com/bm-iparttsdev/login)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
