@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - O Próprio site da empresa também participei do desenvolvimento
 
 - 🤔 Como Entrei na iPartts muito cedo e não usava ainda github e estava focado nos projetos da empresa e aprendendo novas tecnologias e aplicando, acabei não tendo tempo para concluir projetos para construção do protiflótio no github
-- Então vou deixar aqui de imedia alguns projetos antigos que achei na minha máquina.
+- Então vou deixar aqui de alguns projetos antigos que achei na minha máquina e futuramente começarei a realiza novos projetos para continuar compondo o portifólio.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
