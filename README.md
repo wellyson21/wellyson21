@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📄 Conheça Minha experiências [https://www.ipartts.com/)
 - Trabalhei principalmente em projetos privados da empresa iPartts com foco no seguimento de ERPs
-- Segue o link do ERP em passei grande parte do tempo trabalhando dentro da iPartts [https://smartgestor.ipartts.com/)](https://smartgestor.ipartts.com/bm-iparttsdev/login)
+- Segue o link do ERP em passei grande parte do tempo trabalhando dentro da iPartts [https://smartgestor.ipartts.com/bm-iparttsdev/login)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
