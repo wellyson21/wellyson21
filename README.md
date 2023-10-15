@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Olá 👋, Eu sou Wellyson</h1>
+<h1 align="center">Olá 👋</h1>
 <h3 align="center">Um Apaixonado Por Tecnologia | Desenvolvedor FullStack (PHP, Node, Angular, React)</h3>
 
 - 🌱 Estou aprendendo atualmente **Stack Spring para desenvolvimento java**
