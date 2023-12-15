@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - Segue o link do ERP em passei grande parte do tempo trabalhando dentro da iPartts [https://smartgestor.ipartts.com/bm-iparttsdev/login)]
 - O Próprio site da empresa também participei do desenvolvimento
 
-- 🤔 Como Entrei na iPartts muito cedo e não usava ainda github e estava focado nos projetos da empresa e aprendendo novas tecnologias e aplicando, acabei não tendo tempo para concluir projetos para construção do protiflótio no github
-- Então vou deixar subir alguns projetos antigos que achei em alguns backups de hds atingos na minha máquina e futuramente começarei a realizar novos projetos para continuar compondo o portifólio.
+- Durante meu tempo na iPartts, concentrei meus esforços em contribuir significativamente para os projetos da empresa, o que me permitiu adquirir experiência valiosa e dominar novas tecnologias. Como resultado, não consegui dedicar tanto tempo ao desenvolvimento de um portfólio no GitHub.
+- Atualmente, estou resgatando alguns projetos antigos de backups de discos rígidos pessoais para compartilhar meu trabalho anterior. Além disso, estou planejando começar novos projetos em breve para complementar e enriquecer meu portfólio.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
